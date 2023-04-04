@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: README.md
+Disallow: CNAME
+
+Sitemap: https://smarter.works/sitemap.xml
