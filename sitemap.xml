@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://smarter.works/</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://smarter.works/index.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/about.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/contact.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/chatgpt4.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/prompt-engineering.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/chatgpt3.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/openai.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smarter.works/old-posts.html</loc>
+  <lastmod>2023-03-15T01:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
